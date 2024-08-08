@@ -5,6 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <title>File Viewer</title>
+    <link rel="manifest" href="manifest.json">
+
     <style>
         #fileContent {
             width: 100%;
