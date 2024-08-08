@@ -22,6 +22,6 @@
     </select>
     <br><br>
     <textarea id="fileContent"></textarea>
-    <script src="assets/files.js"></script>
+    <script src="assets.js"></script>
 </body>
 </html>
