@@ -1,7 +1,7 @@
 Pkgd is a lightweight and feature-rich file manager built in PHP. It provides an intuitive interface and robust backend functionality for managing files and directories with ease. Whether you're a developer or an admin, Pkgd simplifies file management tasks on your server.
 
-Features
-Create Files and Directories: Easily create new files or folders directly from the interface.
+Features<br>
+Create Files and Directories: Easily create new files or folders directly from the interface.<Br>
 Rename: Rename files and folders effortlessly.
 Copy and Move: Copy or move files and folders to organize your directories.
 File Upload: Upload files to your server using the intuitive interface.
